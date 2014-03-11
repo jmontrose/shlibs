@@ -10,5 +10,9 @@
   "main": "./main",
   "engines": {
     "node": "*"
+  },
+  "dependencies": {
+    "async": "~0.2.10",
+    "sinon": "~1.9.0"
   }
 }
